@@ -13,7 +13,7 @@ SNNs leverage these biological principles by incorporating impulse amplitude and
 The primary goal of this study is to develop a system that converts SNN structures between different deep learning libraries. Currently, there are seven major libraries used to construct spiking neural networks. In response to reproducibility challenges and the need for a unified representation, Jens E. Pedersen and colleagues developed a library called NIR (Neuromorphic Intermediate Representation).
 
 In discussing the approach, Jens E. Pedersen stated:  
-> "Creating a network and seeing how it learns in different libraries is actually a wonderful project! A significant problem in the field, as we point out in the paper, is reproducibility and establishing common understanding. With a single representation—such as NIR—we can reuse the model across various works, platforms, and hardware settings. More work is needed to understand how NIR graphs compare across libraries, so such studies are most welcome!" citeturn0search0
+> "Creating a network and seeing how it learns in different libraries is actually a wonderful project! A significant problem in the field, as we point out in the paper, is reproducibility and establishing common understanding. With a single representation—such as NIR—we can reuse the model across various works, platforms, and hardware settings. More work is needed to understand how NIR graphs compare across libraries, so such studies are most welcome!" 
 
 Accordingly, we compared different libraries to one another, and in the process, identified and reported several errors.
 
